@@ -1,4 +1,4 @@
-# breast-cancer-image-classification-using-convnext-transfer-learning
+# Breast Cancer Image Classification Using Convnext Transfer Learning
 This repository contains a simple implementation of breast cancer histopathology image classification using a ConvNeXt model with transfer learning. It demonstrates how to adapt a pretrained ConvNeXt network to classify breast cancer images using publicly accessible datasets.
 
 The workflow, implemented in Google Colab, covers:
