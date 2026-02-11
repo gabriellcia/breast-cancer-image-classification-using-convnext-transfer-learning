@@ -9,7 +9,7 @@ The workflow, implemented in Google Colab, covers:
    evaluating model performance
 The code can also be executed in a local Jupyter Notebook environment if preferred.
 
-📂 Dataset
+# 📂 Dataset
 
 Due to file size constraints, the image datasets are hosted on Google Drive. You should download or mount these folders before running the notebook, and update paths accordingly.
 
@@ -18,7 +18,7 @@ Due to file size constraints, the image datasets are hosted on Google Drive. You
 
 Place the downloaded folders under a structured directory (e.g., data/BreakHis200x and data/BreastCancerImager), or mount your Google Drive in Colab and point the code to those folders.
 
-🧠 Implementation Overview
+# 🧠 Implementation Overview
 
 The notebook includes:
 
